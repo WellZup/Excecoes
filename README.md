@@ -22,7 +22,7 @@ Exercícios sobre Exceções
 - ``Revisão de aulas JOY ``
 - ``DEV Media``
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellZup&layout=compact)](https://github.com/WellZup/github-readme-stats)
+
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
